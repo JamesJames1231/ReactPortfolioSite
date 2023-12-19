@@ -1,0 +1,14 @@
+.form{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0b1d51;
+}
+.inner-form{
+    padding: 30px;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+}
