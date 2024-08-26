@@ -1,0 +1,70 @@
+{
+    "one": [
+        { 
+            "name": "Self-Hosted Cloud Storage", 
+            "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
+        },
+        { 
+            "name": ".NET CRM System", 
+            "value": "This was a CRM system to handle customer data alongside the built-in Work Managment Systems that allow teams to organise and complete projects effectively. Languages used: C# and Microsoft SQL." 
+        },
+        { 
+            "name": "UniMaps", 
+            "value": "My first project at University, a website to direct people accross multiple NTU campuses. Based on campus building names. Languages used: PHP, Web Dev, Python & JSON." 
+        },
+        { 
+            "name": "Safe Routes Android App", 
+            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON. " 
+        },
+        { 
+            "name": "E-Commerce Technology Site", 
+            "value": "The site was created as a e-commerce site, with mock payment methods, purchase return functionality and customer support chatbot. Using: PHP, Pyhton, Web Dev and SQL." 
+        }
+    ],
+
+    "two": [
+        { 
+            "name": "Poo-Hosted Cloud Storage", 
+            "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
+        },
+        { 
+            "name": ".NET CRM System", 
+            "value": "This was a CRM system to handle customer data alongside the built-in Work Managment Systems that allow teams to organise and complete projects effectively. Languages used: C# and Microsoft SQL." 
+        },
+        { 
+            "name": "UniMaps", 
+            "value": "My first project at University, a website to direct people accross multiple NTU campuses. Based on campus building names. Languages used: PHP, Web Dev, Python & JSON." 
+        },
+        { 
+            "name": "Safe Routes Android App", 
+            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON. " 
+        },
+        { 
+            "name": "Safe Routes Android App", 
+            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON." 
+        }
+    ],
+
+    "three": [
+        { 
+            "name": "Wee-Hosted Cloud Storage", 
+            "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
+        },
+        { 
+            "name": ".NET CRM System", 
+            "value": "This was a CRM system to handle customer data alongside the built-in Work Managment Systems that allow teams to organise and complete projects effectively. Languages used: C# and Microsoft SQL." 
+        },
+        { 
+            "name": "UniMaps", 
+            "value": "My first project at University, a website to direct people accross multiple NTU campuses. Based on campus building names. Languages used: PHP, Web Dev, Python & JSON." 
+        },
+        { 
+            "name": "Safe Routes Android App", 
+            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON. " 
+        },
+        { 
+            "name": "Safe Routes Android App", 
+            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON." 
+        }
+    ]
+}

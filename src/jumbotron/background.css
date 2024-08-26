@@ -1,0 +1,107 @@
+.homepage{
+    min-height: 200vh;
+    background-image: url("../../public/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 200vh;
+    width: 100vw;
+}
+.innerHome{
+    height: 100%;
+    max-width: 1000px;
+}
+.scroll{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive;
+}
+[data-aos="fade-out"] {
+    opacity: 1;
+    transition-property: opacity;
+    &.aos-animate {
+      opacity: 0;
+    }
+}
+.title{
+    width: 100vw;
+    height: 90vh;
+
+    position: fixed;
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1rem;
+    color: whitesmoke;
+}
+.title h1{
+    background-color: lightblue;
+    opacity: 0.9;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.title .imag{
+    border-radius: 1rem;
+    box-shadow: 1px 1px lightslategrey;
+}
+
+.leftTop{
+    left: 10%;
+    position: fixed;
+    top: 25%;
+    bottom: 0;
+    margin: auto;
+}
+.rightTop{
+    right: 5%;
+    position: fixed;
+    top: 15%;
+    bottom: 0;
+    margin: auto;
+}
+.middle{
+    right: 5%;
+    position: fixed;
+    top: 85%;
+    bottom: 0;
+    margin: auto;
+}
+
+.appear{
+    color: whitesmoke;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive;
+}
+@media screen and (max-width: 900px) {
+    .appear{
+        font-size: 1.4rem;
+    }
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 200px;
+    padding-top: 75px;
+    text-align: center;
+    font-size: 0;
+    
+    span {
+      display: block;
+      font-size: 0;
+    }
+}
