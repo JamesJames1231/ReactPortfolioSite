@@ -24,7 +24,7 @@
 
     "two": [
         { 
-            "name": "Poo-Hosted Cloud Storage", 
+            "name": "Self-Hosted Cloud Storage", 
             "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
         },
         { 
@@ -47,7 +47,7 @@
 
     "three": [
         { 
-            "name": "Wee-Hosted Cloud Storage", 
+            "name": "Self-Hosted Cloud Storage", 
             "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
         },
         { 
