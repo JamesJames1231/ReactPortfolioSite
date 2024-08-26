@@ -1,4 +1,4 @@
-import {Container, Navbar, Nav, NavDropdown, Jumbotron} from 'react-bootstrap';
+import {Container, Navbar, Nav, NavDropdown} from 'react-bootstrap';
 
 function App() {
   return (

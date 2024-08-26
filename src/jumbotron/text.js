@@ -1,6 +1,6 @@
 import "./background.css";
-import {Container, Row, Col, Image} from 'react-bootstrap';
-import { useEffect, useState } from 'react';
+import {Image} from 'react-bootstrap';
+import { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
