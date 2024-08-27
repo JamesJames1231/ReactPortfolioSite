@@ -24,47 +24,35 @@
 
     "two": [
         { 
-            "name": "Self-Hosted Cloud Storage", 
-            "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
+            "name": "Run Fatigue Tracker", 
+            "value": "I liked Garmins muscle fatigue tracker, didn't like their watches, so made my own, soon to be a web app too. Languages: React, SQLite. Might try to make a watch app soon too."
         },
         { 
-            "name": ".NET CRM System", 
-            "value": "This was a CRM system to handle customer data alongside the built-in Work Managment Systems that allow teams to organise and complete projects effectively. Languages used: C# and Microsoft SQL." 
+            "name": "APIs Stored In Azure", 
+            "value": "Most of my personal projects use APIs stored in Microsoft Azure, as I usually attempt to make websites and phone applications." 
         },
         { 
-            "name": "UniMaps", 
-            "value": "My first project at University, a website to direct people accross multiple NTU campuses. Based on campus building names. Languages used: PHP, Web Dev, Python & JSON." 
+            "name": "Chore Planner :(", 
+            "value": "Living with house mates ain't easy. This site using PHP, SQL and a well designed UI, was my attempt to not be the only one washing plates and forks." 
         },
         { 
-            "name": "Safe Routes Android App", 
-            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON. " 
-        },
-        { 
-            "name": "Safe Routes Android App", 
-            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON." 
+            "name": "Budget Site", 
+            "value": "(Insert Mr. Krabs Meme) Site built in PHP, Web Dev and SQL, to plan weekly and monthly finances, as of May 2023 it's in need of a UI upgrade." 
         }
     ],
 
     "three": [
         { 
-            "name": "Self-Hosted Cloud Storage", 
-            "value": "My dissertation was a self-hosted cloud storage solution, packaged into a single .exe file. Receiving a high 1st. Built using Python, Web Dev, SQLite, ReactJS and Bootstrap."
+            "name": "", 
+            "value": ""
         },
         { 
-            "name": ".NET CRM System", 
-            "value": "This was a CRM system to handle customer data alongside the built-in Work Managment Systems that allow teams to organise and complete projects effectively. Languages used: C# and Microsoft SQL." 
+            "name": "", 
+            "value": "" 
         },
         { 
-            "name": "UniMaps", 
-            "value": "My first project at University, a website to direct people accross multiple NTU campuses. Based on campus building names. Languages used: PHP, Web Dev, Python & JSON." 
-        },
-        { 
-            "name": "Safe Routes Android App", 
-            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON. " 
-        },
-        { 
-            "name": "Safe Routes Android App", 
-            "value": "Dissertation for my masters degree, designed to guide people home based on crime statistics and create safe travel groups. Languages used: Java/Kotlin, SQL, JSON." 
+            "name": "Notts Police Graduate", 
+            "value": "A brilliant scheme that allowed me to get valuable experience in all departments. Solutions & Development, Operations, Networks and Support. Before focusing on a one department to develop my skills in." 
         }
     ]
 }

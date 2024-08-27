@@ -32,11 +32,7 @@ function App() {
           Experience In Development,<br/>Support and Infastructure!
         </div>
       </div>
-      <div class="item" id="disapear">
-        5
-        <span>trigger left</span>
-      </div>
-      <div class="item">1</div>
+
       <div class="item">2</div>
       <div class="item">3</div>
       <div class="item">4</div>
@@ -52,8 +48,7 @@ function App() {
       </div>
         <div class="item">9</div>
         <div class="item">10</div>
-        <div class="item">11</div>
-        <div class="item">12</div>
+
         <div class="item" id="trigger-middle">
         13
         <span>trigger right</span>

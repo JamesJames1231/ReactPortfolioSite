@@ -48,6 +48,7 @@
     border-radius: 1rem;
     margin-left: -1vw;
     overflow: hidden;
+    min-height: 300px;
   }
 
   .in{
