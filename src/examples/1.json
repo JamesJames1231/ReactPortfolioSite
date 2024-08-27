@@ -43,12 +43,12 @@
 
     "three": [
         { 
-            "name": "", 
-            "value": ""
+            "name": "Internal Websites", 
+            "value": "Using NextJS to create sites to be used by an internal department within Notts Police. Giving me great experience at stakeholder managment, interpreting feature requests, time managment and more."
         },
         { 
-            "name": "", 
-            "value": "" 
+            "name": "Infrastructure Experience", 
+            "value": "I have gained profesional experience in Networking, specifically Cisco kit. Servers, mainly Hyper-V, Active Directory and other management tools. I also have experience with Azure deployment. " 
         },
         { 
             "name": "Notts Police Graduate", 

@@ -14,9 +14,9 @@ function App({vari}) {
                     {Data1.one.map((cards, cardID)=> (
                         <article class="scroll-cards__item" aria-label="Wie - 1">
                             <h2>{cards.name}</h2>
-                            <div class="in">
+                            <div class="in_ntu">
                                 <p>{cards.value}</p>
-                                <Image src="page1.png" className="image" width={350} height={300} fluid />
+                                <Image src="ntu.jpg" className="image" width={350} height={300} fluid />
                             </div>
                         </article>
                     ))}
@@ -27,13 +27,13 @@ function App({vari}) {
     else if(vari == 1){
         return (
             <div class="wrapper">
-                <div class="scroll-cards">
+                <div class="scroll-cards long">
                     {Data1.two.map((cards, cardID)=> (
                         <article class="scroll-cards__item" aria-label="Wie - 1">
                             <h2>{cards.name}</h2>
                             <div class="in">
                                 <p>{cards.value}</p>
-                                <Image src="page1.png" className="image" width={350} height={300} fluid />
+                                <Image src="me.gif" className="image" width={250} height={250} fluid />
                             </div>
                         </article>
                     ))}
@@ -43,13 +43,12 @@ function App({vari}) {
     }
     return (
         <div class="wrapper">
-            <div class="scroll-cards">
+            <div class="scroll-cards diff">
                 {Data1.three.map((cards, cardID)=> (
                     <article class="scroll-cards__item" aria-label="Wie - 1">
                         <h2>{cards.name}</h2>
-                        <div class="in">
+                        <div >
                             <p>{cards.value}</p>
-                            <Image src="page1.png" className="image" width={350} height={300} fluid />
                         </div>
                     </article>
                 ))}

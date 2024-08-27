@@ -21,11 +21,16 @@
     counter-reset: card;
     position: sticky;
     display: block;
-    padding-bottom: 42vh;
+    margin-bottom: 370px;
   }
-  
+  .long{
+    margin-bottom: 210px;
+  }
+  .diff{
+    margin-bottom: 400px;
+  }
   .scroll-cards > .scroll-cards__item + .scroll-cards__item {
-    margin-top: 60vh;
+    margin-top: 100vh;
   }
   
   .scroll-cards h1 {
@@ -48,18 +53,23 @@
     border-radius: 1rem;
     margin-left: -1vw;
     overflow: hidden;
-    min-height: 300px;
   }
 
   .in{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .in p{
     min-width: 400px;
     max-width: 600px;
     padding: 0.5rem;
+  }
+
+  .image{
+    border-radius: .5rem;
   }
   
   @media screen and (max-width: 900px) {
@@ -80,8 +90,11 @@
       max-width: 400px;
     }
     .scroll-cards{
-      padding-bottom: 75px;
+      padding-bottom: 0;
       position: sticky;
+    }
+    .long{
+      margin-bottom: 40px;
     }
   }
 
