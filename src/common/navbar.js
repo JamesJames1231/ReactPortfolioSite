@@ -14,7 +14,7 @@ function App() {
                                 Contact Me
                             </NavDropdown.Item>
 
-                            <NavDropdown.Item href="#Github">
+                            <NavDropdown.Item href="https://github.com/james-james-247" target="_blank">
                                 GitHub
                             </NavDropdown.Item>
                             
