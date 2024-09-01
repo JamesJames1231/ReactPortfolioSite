@@ -20,7 +20,7 @@ function App() {
                             
                             <NavDropdown.Divider />
 
-                            <NavDropdown.Item href="#LinkedIn">
+                            <NavDropdown.Item href="https://www.linkedin.com/in/james-smith-038482201/" target="_blank">
                                 LinkedIn
                             </NavDropdown.Item>
                         </NavDropdown>
